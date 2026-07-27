@@ -1,0 +1,17 @@
+{
+  "tenant_id": "placeholder_tenant",
+  "client_id": "placeholder_client",
+  "client_secret": "placeholder_secret",
+  "critical_contacts": [
+    "+1234567890"
+  ],
+  "critical_email_list": [
+    "cfo@example.com",
+    "data-oncall@example.com"
+  ],
+  "standard_email_list": [
+    "data-team@example.com"
+  ],
+  "slack_channel_critical": "#data-incidents",
+  "slack_channel_alerts": "#data-alerts"
+}
